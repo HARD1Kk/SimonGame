@@ -20,7 +20,7 @@ Simon Game is a classic memory game where players have to remember and repeat se
 - [Bootstrap](https://getbootstrap.com/)
 
 ### How to Play
-1. Click on "Start" to begin the game.
+1. Press any Key To start the game.
 2. Watch and listen to the sequence of lights and sounds played by Simon.
 3. Repeat the sequence by clicking on the corresponding buttons.
 4. The sequence gets longer and more challenging as you progress.
