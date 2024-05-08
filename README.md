@@ -18,6 +18,11 @@ Simon Game is a classic memory game where players have to remember and repeat se
 - JavaScript
 - [jQuery](https://jquery.com/)
 - [Bootstrap](https://getbootstrap.com/)
+  
+ ## Compatibility
+
+**Note:** This version of the Simon Game is optimized for PC use and may not be fully compatible with mobile devices. The game relies on keyboard input for interaction, which may not be available on all mobile devices. For the best experience, we recommend playing the game on a PC with a standard keyboard.
+
 
 ### How to Play
 1. Press any Key To start the game.
